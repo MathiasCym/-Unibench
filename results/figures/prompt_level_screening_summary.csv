@@ -1,0 +1,4 @@
+﻿level,n_prompts,mean_words,median_words,min_words,max_words,n_methods,compile_success_percent,mean_cd,mean_hd,geometry_error_index,eecm_percent
+Beginner,40,13.7750,12.0000,4,27,8,98.7500,0.0528,0.1816,100.0000,67.9441
+Intermediate,40,47.5500,44.0000,30,97,8,99.3750,0.0393,0.1553,79.9205,67.9728
+Expert,40,101.3000,101.0000,66,170,8,97.8125,0.0409,0.1615,83.1532,67.9581

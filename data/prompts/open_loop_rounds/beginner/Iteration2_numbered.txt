@@ -1,0 +1,199 @@
+# UB40-B001 | target=UB40-T001 | source_stl=UB40-T001.stl
+<prompt>
+A frustum-shaped solid about 50 units tall, with flat circular ends and a larger diameter at the top than at the bottom.
+</prompt>
+
+# UB40-B002 | target=UB40-T002 | source_stl=UB40-T002.stl
+<prompt>
+A very thin nearly square plate about 0.56 by 0.51 units in plan and only about 0.0066 units thick.
+</prompt>
+
+# UB40-B003 | target=UB40-T003 | source_stl=UB40-T003.stl
+<prompt>
+A short solid cylinder about 0.56 units in diameter and about 0.23 units high, with flat circular ends.
+</prompt>
+
+# UB40-B004 | target=UB40-T004 | source_stl=UB40-T004.stl
+<prompt>
+A solid rectangular bar about 0.75 units long, 0.375 units wide, and 0.0938 units thick, with one semicircular notch cut into a short side.
+</prompt>
+
+# UB40-B005 | target=UB40-T005 | source_stl=UB40-T005.stl
+<prompt>
+A thin triangular plate about 0.56 by 0.54 units in plan and about 0.0758 units thick, with three corner holes.
+</prompt>
+
+# UB40-B006 | target=UB40-T006 | source_stl=UB40-T006.stl
+<prompt>
+A rectangular block about 80 by 50 by 30 units overall, with one large circular blind recess opened from the top and offset toward one end.
+</prompt>
+
+# UB40-B007 | target=UB40-T007 | source_stl=UB40-T007.stl
+<prompt>
+A thin tapered plate about 120 units long, 40 units wide, and 18 units thick, with three circular holes aligned along its length.
+</prompt>
+
+# UB40-B008 | target=UB40-T008 | source_stl=UB40-T008.stl
+<prompt>
+A stepped square pedestal about 0.75 by 0.75 units in footprint and about 0.60 units tall, finished with a pyramid on top.
+</prompt>
+
+# UB40-B009 | target=UB40-T009 | source_stl=UB40-T009.stl
+<prompt>
+A thin circular ring with an outer diameter of about 0.56 units and a concentric hole through the middle.
+</prompt>
+
+# UB40-B010 | target=UB40-T010 | source_stl=UB40-T010.stl
+<prompt>
+A narrow U-shaped frame about 0.56 by 0.25 by 0.14 units overall, open on one side and ending in two short feet.
+</prompt>
+
+# UB40-B011 | target=UB40-T011 | source_stl=UB40-T011.stl
+<prompt>
+A very slender straight cylindrical pin about 0.75 units long and about 0.043 units in diameter, with flat ends and no head.
+</prompt>
+
+# UB40-B012 | target=UB40-T012 | source_stl=UB40-T012.stl
+<prompt>
+A thin rounded-corner plate about 0.56 by 0.47 units in plan and about 0.0375 units thick, with one large circular pocket near a corner.
+</prompt>
+
+# UB40-B013 | target=UB40-T013 | source_stl=UB40-T013.stl
+<prompt>
+An elongated capsule-shaped prism about 0.56 units long, 0.124 units wide, and 0.101 units thick, with straight sides joined by rounded ends.
+</prompt>
+
+# UB40-B014 | target=UB40-T014 | source_stl=UB40-T014.stl
+<prompt>
+A thin solid prism based on a teardrop outline, fitting within about 0.243 by 0.243 units and about 0.08 units in thickness.
+</prompt>
+
+# UB40-B015 | target=UB40-T015 | source_stl=UB40-T015.stl
+<prompt>
+A short solid cylinder with one plain circular end and one concentric stepped circular end.
+</prompt>
+
+# UB40-B016 | target=UB40-T016 | source_stl=UB40-T016.stl
+<prompt>
+A round flange plate about 25.4 units across and about 6.76 units deep, with one large center hole, six smaller bolt holes around it, and a short cylindrical hub on the back.
+</prompt>
+
+# UB40-B017 | target=UB40-T017 | source_stl=UB40-T017.stl
+<prompt>
+A flat rectangular mounting plate about 250 units long, 150 units wide, and 16 units thick, with one hole near each corner.
+</prompt>
+
+# UB40-B018 | target=UB40-T018 | source_stl=UB40-T018.stl
+<prompt>
+A straight cylindrical rod about 163.8 units long and about 16 units in diameter, with a small transverse hole near one end.
+</prompt>
+
+# UB40-B019 | target=UB40-T019 | source_stl=UB40-T019.stl
+<prompt>
+A plate-like solid about 108 units wide, 76.2 units tall, and 25.4 units thick, with a curved top edge and two upper holes.
+</prompt>
+
+# UB40-B020 | target=UB40-T020 | source_stl=UB40-T020.stl
+<prompt>
+A tall rectangular block about 76.2 by 50.8 units in footprint and about 152.4 units high, with a deep U-shaped slot cut into the top.
+</prompt>
+
+# UB40-B021 | target=UB40-T021 | source_stl=UB40-T021.stl
+<prompt>
+A thin-walled bracket-like frame about 120 units long, 40 units high, and 21 units deep, with two end plates, a sloped top, a large open central window, a middle round hole, and small mounting holes.
+</prompt>
+
+# UB40-B022 | target=UB40-T022 | source_stl=UB40-T022.stl
+<prompt>
+A thin three-lobed ring-like plate about 300 by 277 units in plan and about 15 units thick, with a circular hole in the center.
+</prompt>
+
+# UB40-B023 | target=UB40-T023 | source_stl=UB40-T023.stl
+<prompt>
+A thin stepped mounting plate about 108 units long, 53.1 units wide, and 10.7 units thick, with one large central hole, four smaller holes around it, and one extra hole near each end.
+</prompt>
+
+# UB40-B024 | target=UB40-T024 | source_stl=UB40-T024.stl
+<prompt>
+A flat asymmetric plate about 193.8 by 160 units in plan and about 10 units thick, with five round mounting holes and two long parallel slots in the forked end.
+</prompt>
+
+# UB40-B025 | target=UB40-T025 | source_stl=UB40-T025.stl
+<prompt>
+A rounded rectangular hollow box about 230 units long, 130 units wide, and 45 units thick, with one large open side and one closed side.
+</prompt>
+
+# UB40-B026 | target=UB40-T026 | source_stl=UB40-T026.stl
+<prompt>
+A fastener-like part about 12.95 units high, with a broad circular head, a short shaft, and a recessed polygonal socket on top.
+</prompt>
+
+# UB40-B027 | target=UB40-T027 | source_stl=UB40-T027.stl
+<prompt>
+A helical compression spring about 8.63 units in outer diameter and about 8.70 units long.
+</prompt>
+
+# UB40-B028 | target=UB40-T028 | source_stl=UB40-T028.stl
+<prompt>
+A hexagonal nut-like solid about 60 units across corners, about 55.9 units across flats, and about 30.6 units thick, with a circular through-hole.
+</prompt>
+
+# UB40-B029 | target=UB40-T029 | source_stl=UB40-T029.stl
+<prompt>
+A circular flange about 228.6 units in diameter and about 79.4 units high overall, with eight evenly spaced outer holes and a broad cylindrical hub on the back.
+</prompt>
+
+# UB40-B030 | target=UB40-T030 | source_stl=UB40-T030.stl
+<prompt>
+A bracket-like plate about 110 by 85 by 55 units overall, with a large cylindrical boss with a center hole, a smaller round hole in the plate, and a deep side opening at one end.
+</prompt>
+
+# UB40-B031 | target=UB40-T031 | source_stl=UB40-T031.stl
+<prompt>
+A long thin L-shaped bracket fitting inside about 381 by 158.75 by 44.45 units, made from one broad panel and one narrow hole-bearing flange running along a long edge.
+</prompt>
+
+# UB40-B032 | target=UB40-T032 | source_stl=UB40-T032.stl
+<prompt>
+A five-pointed star-shaped plate about 138.6 by 123.8 units across, with a short cylindrical boss raised from the center.
+</prompt>
+
+# UB40-B033 | target=UB40-T033 | source_stl=UB40-T033.stl
+<prompt>
+A shallow open tray-like structure about 420 by 260 units in footprint and about 325 units high, with four corner posts.
+</prompt>
+
+# UB40-B034 | target=UB40-T034 | source_stl=UB40-T034.stl
+<prompt>
+A thin plate about 170 units long, 120 units wide, and 15 units thick, with two circular holes placed near opposite ends.
+</prompt>
+
+# UB40-B035 | target=UB40-T035 | source_stl=UB40-T035.stl
+<prompt>
+A solid round part about 59.2 units in diameter and about 27.9 units long, made from three coaxial circular discs or rims overlapping around the same center.
+</prompt>
+
+# UB40-B036 | target=UB40-T036 | source_stl=UB40-T036.stl
+<prompt>
+A torus-like ring about 49.05 units in outer diameter with a rounded tube diameter of about 5.08 units.
+</prompt>
+
+# UB40-B037 | target=UB40-T037 | source_stl=UB40-T037.stl
+<prompt>
+A bent angle bracket about 70 units long, 35 units high, and 20 units deep, with three larger holes on one flange and two smaller holes on the other.
+</prompt>
+
+# UB40-B038 | target=UB40-T038 | source_stl=UB40-T038.stl
+<prompt>
+A tall upright block about 101.6 units high with a sloped top and one deep rectangular side recess.
+</prompt>
+
+# UB40-B039 | target=UB40-T039 | source_stl=UB40-T039.stl
+<prompt>
+A clevis-like block about 127 units long, with a rounded lug hole at one end and a top slot that forms two parallel arms.
+</prompt>
+
+# UB40-B040 | target=UB40-T040 | source_stl=UB40-T040.stl
+<prompt>
+A rigid bracket-like part about 79.9 units long, 50 units high, and 40 units deep, with one rounded hole end and a triangular support rib below.
+</prompt>

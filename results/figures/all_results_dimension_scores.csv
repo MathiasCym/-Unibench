@@ -1,0 +1,9 @@
+﻿Method,Cohort,Accuracy,Fidelity,Robustness
+DeepSeek-v4 Flash(API),Open-loop Workflow,70.24,64.38,82.35
+Codex 5.5(MCP),Open-loop Workflow,70.32,86.25,90.52
+Text-to-CadQuery,Open-loop Workflow,40.33,31.67,32.19
+Text2CAD,Open-loop Workflow,34.71,33.02,29.39
+Claude Opus 4.7,Closed-loop Workflow,70.50,86.98,78.91
+ChatGPT 5.4,Closed-loop Workflow,69.86,81.46,87.67
+Qwen 3.7-Plus,Closed-loop Workflow,68.19,79.38,72.79
+Gemini 3.5 Flash,Closed-loop Workflow,65.83,63.85,70.04

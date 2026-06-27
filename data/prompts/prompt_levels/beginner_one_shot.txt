@@ -1,0 +1,119 @@
+[UB40-B001] [UB40-T001]
+A tall circular frustum with a flat circular top and bottom, slightly wider at the top than at the base.
+
+[UB40-B002] [UB40-T002]
+A very thin square plate with flat top and bottom faces and sharp straight edges.
+
+[UB40-B003] [UB40-T003]
+A short solid cylinder with a flat circular top and bottom.
+
+[UB40-B004] [UB40-T004]
+A rectangular bar with a semicircular notch cut into one short side.
+
+[UB40-B005] [UB40-T005]
+A flat triangular mounting plate with three circular holes near its corners.
+
+[UB40-B006] [UB40-T006]
+A rectangular block with a circular recess on its top face.
+
+[UB40-B007] [UB40-T007]
+A thin tapered plate with three circular holes in a row.
+
+[UB40-B008] [UB40-T008]
+A square pedestal with a stepped base and a pyramid-shaped top.
+
+[UB40-B009] [UB40-T009]
+A thin circular ring with a hollow center.
+
+[UB40-B010] [UB40-T010]
+A thin U-shaped frame with short feet at both lower ends.
+
+[UB40-B011] [UB40-T011]
+A very thin straight cylindrical rod.
+
+[UB40-B012] [UB40-T012]
+A thin square plate with rounded corners and a circular pocket near one corner.
+
+[UB40-B013] [UB40-T013]
+A long rounded-end bar with flat top and bottom faces.
+
+[UB40-B014] [UB40-T014]
+A flat teardrop-shaped prism with one rounded end and one pointed end.
+
+[UB40-B015] [UB40-T015]
+A short solid cylinder with one plain circular end and one concentric stepped circular end.
+
+[UB40-B016] [UB40-T016]
+A round flange plate with one large center hole, six smaller bolt holes around it, and a short cylindrical hub on the back.
+
+[UB40-B017] [UB40-T017]
+A thin rectangular plate with four circular corner holes.
+
+[UB40-B018] [UB40-T018]
+A long cylindrical rod with a small cross-hole near one end.
+
+[UB40-B019] [UB40-T019]
+A rounded-top rectangular plate with two holes near its upper corners.
+
+[UB40-B020] [UB40-T020]
+A tall rectangular block with a deep U-shaped slot cut into the top.
+
+[UB40-B021] [UB40-T021]
+A bracket-like open frame with two end plates, a sloped top, a large round hole in the middle panel, and small mounting holes.
+
+[UB40-B022] [UB40-T022]
+A thin three-lobed ring with a round hole in the center.
+
+[UB40-B023] [UB40-T023]
+A thin stepped mounting plate with one large center hole, four smaller holes around it, and one extra hole near each end.
+
+[UB40-B024] [UB40-T024]
+An asymmetric forked plate with five round mounting holes and two long parallel slots in the forked end.
+
+[UB40-B025] [UB40-T025]
+A rounded rectangular hollow box with one large open side and one closed side.
+
+[UB40-B026] [UB40-T026]
+A screw-like part with a wide round head, a short cylindrical shaft, and a recessed polygonal socket in the top.
+
+[UB40-B027] [UB40-T027]
+A helical coil spring.
+
+[UB40-B028] [UB40-T028]
+A hexagonal nut with a round hole through the middle.
+
+[UB40-B029] [UB40-T029]
+A round flange with eight small holes around the edge and a cylindrical hub on the back.
+
+[UB40-B030] [UB40-T030]
+A bracket-like plate with a large cylindrical boss with a center hole, a smaller round hole in the plate, and a deep side opening at one end.
+
+[UB40-B031] [UB40-T031]
+A long thin L-shaped bracket with a broad flat panel, a narrow perpendicular flange running along one long edge, and four holes in that flange.
+
+[UB40-B032] [UB40-T032]
+A five-pointed star plate with a short round raised center boss.
+
+[UB40-B033] [UB40-T033]
+An open tray-like base with four upright corner posts.
+
+[UB40-B034] [UB40-T034]
+A rounded rectangular plate with two holes, one near each end.
+
+[UB40-B035] [UB40-T035]
+A solid round part made from three coaxial circular discs or rims overlapping around the same center.
+
+[UB40-B036] [UB40-T036]
+A thin circular ring with a rounded cross-section.
+
+[UB40-B037] [UB40-T037]
+An L-shaped angle bracket with three large holes on one side and two small holes on the other.
+
+[UB40-B038] [UB40-T038]
+A tall upright block with a sloped top and a deep rectangular side recess.
+
+[UB40-B039] [UB40-T039]
+A block with a rounded end hole and a top slot.
+
+[UB40-B040] [UB40-T040]
+An angled bracket with a round hole at one end and a triangular support underneath.

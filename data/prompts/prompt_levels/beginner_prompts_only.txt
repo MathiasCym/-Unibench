@@ -1,0 +1,40 @@
+A tall circular frustum with a flat circular top and bottom, slightly wider at the top than at the base.
+A very thin square plate with flat top and bottom faces and sharp straight edges.
+A short solid cylinder with a flat circular top and bottom.
+A rectangular bar with a semicircular notch cut into one short side.
+A flat triangular mounting plate with three circular holes near its corners.
+A rectangular block with a circular recess on its top face.
+A thin tapered plate with three circular holes in a row.
+A square pedestal with a stepped base and a pyramid-shaped top.
+A thin circular ring with a hollow center.
+A thin U-shaped frame with short feet at both lower ends.
+A very thin straight cylindrical rod.
+A thin square plate with rounded corners and a circular pocket near one corner.
+A long rounded-end bar with flat top and bottom faces.
+A flat teardrop-shaped prism with one rounded end and one pointed end.
+A short solid cylinder with one plain circular end and one concentric stepped circular end.
+A round flange plate with one large center hole, six smaller bolt holes around it, and a short cylindrical hub on the back.
+A thin rectangular plate with four circular corner holes.
+A long cylindrical rod with a small cross-hole near one end.
+A rounded-top rectangular plate with two holes near its upper corners.
+A tall rectangular block with a deep U-shaped slot cut into the top.
+A bracket-like open frame with two end plates, a sloped top, a large round hole in the middle panel, and small mounting holes.
+A thin three-lobed ring with a round hole in the center.
+A thin stepped mounting plate with one large center hole, four smaller holes around it, and one extra hole near each end.
+An asymmetric forked plate with five round mounting holes and two long parallel slots in the forked end.
+A rounded rectangular hollow box with one large open side and one closed side.
+A screw-like part with a wide round head, a short cylindrical shaft, and a recessed polygonal socket in the top.
+A helical coil spring.
+A hexagonal nut with a round hole through the middle.
+A round flange with eight small holes around the edge and a cylindrical hub on the back.
+A bracket-like plate with a large cylindrical boss with a center hole, a smaller round hole in the plate, and a deep side opening at one end.
+A long thin L-shaped bracket with a broad flat panel, a narrow perpendicular flange running along one long edge, and four holes in that flange.
+A five-pointed star plate with a short round raised center boss.
+An open tray-like base with four upright corner posts.
+A rounded rectangular plate with two holes, one near each end.
+A solid round part made from three coaxial circular discs or rims overlapping around the same center.
+A thin circular ring with a rounded cross-section.
+An L-shaped angle bracket with three large holes on one side and two small holes on the other.
+A tall upright block with a sloped top and a deep rectangular side recess.
+A block with a rounded end hole and a top slot.
+An angled bracket with a round hole at one end and a triangular support underneath.

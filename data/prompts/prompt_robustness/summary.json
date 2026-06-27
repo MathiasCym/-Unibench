@@ -1,0 +1,13 @@
+{
+  "source_manifest": "data/manifests/open_loop_prompt_manifest_retained120_one_shot.jsonl",
+  "output_root": "data/prompts/prompt_robustness",
+  "original_count": 40,
+  "word_order_count": 40,
+  "redundant_count": 40,
+  "combined_count": 120,
+  "variant_types": [
+    "original",
+    "word_order",
+    "redundant"
+  ]
+}

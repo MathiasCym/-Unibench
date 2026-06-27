@@ -1,0 +1,159 @@
+<prompt>
+This solid is a tall frustum-like body that fits within roughly 40 by 40 by 50 units. Its upper and lower boundaries are flat circular faces of slightly different diameter, with the larger face on the top side and a smooth, even taper joining the two. The form is a clean solid of revolution and does not include any perforations, grooves, ribs, shoulders, or attached secondary details.
+</prompt>
+
+<prompt>
+This solid is a wafer-thin square-like plate measuring about 0.5625 units in length, 0.5087 units in width, and only 0.0066 units in thickness. Both broad faces are flat and parallel, the side walls descend straight without taper, and the corners stay crisp rather than rounded. No holes, pockets, chamfers, fillets, or surface additions appear anywhere on the body.
+</prompt>
+
+<prompt>
+This solid is a short cylinder about 0.5625 units in diameter and 0.2262 units high. The two circular end faces are flat and parallel, and the lateral surface keeps a constant radius over the full height rather than narrowing like a frustum. It is a plain rotational body with no central opening, recess, flange, or exterior accessory feature.
+</prompt>
+
+<prompt>
+This solid is a rectangular bar roughly 0.75 units long, 0.375 units wide, and 0.0938 units thick. A centered semicircular notch is removed from one short end and passes through the full thickness, creating a half-round side opening. Apart from that single cut, the block keeps planar orthogonal faces and shows no other holes, steps, or edge modifications.
+</prompt>
+
+<prompt>
+This solid is a thin triangular mounting plate about 0.542 by 0.559 units across and about 0.0758 units thick. The outer triangular perimeter is rounded at the corners rather than sharp, and each of the three corner regions contains one circular through-hole. Outside those three perforations, the plate remains flat, even in thickness, and free of local bosses, recesses, or side cuts.
+</prompt>
+
+<prompt>
+This solid is a rectangular block with overall dimensions close to 80 by 50 by 30 units. Its defining feature is a large circular blind recess opening from the top face, centered across the width but shifted toward one end along the length and stopping short of the bottom. The exterior otherwise remains a plain box with flat faces and no extra bores, slots, or stepped regions.
+</prompt>
+
+<prompt>
+This solid is a thin plate about 120 units long, 40 units wide, and 18 units thick, with a slightly trapezoidal plan outline instead of a strict rectangle. Three circular through-holes run along the long direction in a roughly even sequence from one end toward the other. The thickness stays uniform and the broad faces stay flat, with no added pockets, bosses, or secondary perforations.
+</prompt>
+
+<prompt>
+This solid is a centered three-stage square pedestal within an envelope of about 0.75 by 0.75 by 0.60 units. A wide square base supports a smaller centered square tier, and above that sits a square pyramid whose four sloping triangular faces meet at a single apex. The whole object is symmetric about both plan axes and contains no holes or off-center secondary features.
+</prompt>
+
+<prompt>
+This solid is a thin annular ring with an outer diameter of about 0.5625 units and a thickness of about 0.1388 units. A concentric circular opening passes through the middle, leaving a continuous annular band of fairly uniform width around it. The top and bottom faces are flat and parallel, and the ring has no spokes, flats, tabs, or interruptions in its circular form.
+</prompt>
+
+<prompt>
+This solid is a thin U-shaped open frame occupying roughly 0.5625 by 0.2507 by 0.1355 units overall. Material runs around three sides of a rectangular opening while the fourth side remains open, and each lower end extends outward to form a short foot. The frame keeps a uniform prismatic section and includes no circular holes, added tabs, layered steps, or recessed pockets.
+</prompt>
+
+<prompt>
+This solid is a very slender cylindrical pin about 0.75 units long and about 0.043 units in diameter. Its shaft remains constant in diameter from end to end, and both ends terminate in flat circular faces. The geometry is entirely axisymmetric and contains no head, taper, groove, cross-drilled hole, or other attached feature.
+</prompt>
+
+<prompt>
+This solid is a thin square-like plate about 0.5625 by 0.4688 units in plan and about 0.0375 units thick, with rounded outer corners. Near one corner, a large circular blind pocket is recessed from the top face, clearly off-center and not passing through the bottom. The rest of the plate remains flat and simple, with no further holes, slots, pads, or raised geometry.
+</prompt>
+
+<prompt>
+This solid is a capsule-shaped prism about 0.5625 units long, 0.1238 units wide, and 0.1014 units thick. Its plan outline is made from two straight parallel sides joined by equal semicircular ends, producing a pill-like shape that is symmetric along its long axis. The body has constant thickness and contains no perforations, recesses, notches, or protruding subfeatures.
+</prompt>
+
+<prompt>
+This solid is a thin prism with a teardrop-shaped outline, fitting inside roughly 0.2428 by 0.2428 units and measuring about 0.08 units thick. One end is broad and rounded, while the opposite end narrows continuously to a pointed tip. The top and bottom faces remain flat, and no holes, bosses, or side cutouts are added to the simple tapered outline.
+</prompt>
+
+<prompt>
+This solid is a short rotationally symmetric cylinder about 80 units long and about 100 units in diameter. One circular end is plain and flat, while the opposite circular end is a concentric stepped face with an outer annular rim around a slightly inset inner circle. The outer side wall remains cylindrical rather than tapering like a frustum, and no grooves, bores, collars, or non-axisymmetric details interrupt the form.
+</prompt>
+
+<prompt>
+This solid is a compact flange-type component with an outer diameter of about 25.4 units and an overall axial depth of about 6.76 units. A large central through-hole is surrounded by six smaller through-holes placed evenly on a circular bolt pattern, while the rear side carries a short coaxial hub rising from a wider circular shoulder. The geometry stays concentric and radially organized except for the repeated bolt-hole array.
+</prompt>
+
+<prompt>
+This solid is a flat rectangular mounting plate about 250 units long, 150 units wide, and 16 units thick. One circular through-hole sits near each corner, with all four holes inset from the edges and arranged symmetrically about the plate centerlines. Beyond those corner holes, the plate remains a plain slab with straight edges and no slots, pads, countersinks, or extra surface shaping.
+</prompt>
+
+<prompt>
+This solid is a straight cylindrical rod about 163.8 units long and 16 units in diameter. Near one end, a small circular hole passes transversely through the shaft, perpendicular to the rod axis. The rest of the shaft remains smooth and uniform, ending in flat circular faces and showing no grooves, heads, steps, or additional openings.
+</prompt>
+
+<prompt>
+This solid is a plate-like body about 107.95 units wide, 76.2 units tall, and 25.4 units thick. The lower half is rectangular, while the upper outline rises into a broad arch with softened upper corners, and two circular through-holes occupy the upper left and upper right regions in mirrored positions. The central material between the two holes remains intact, and no further cutouts or bosses are introduced.
+</prompt>
+
+<prompt>
+This solid is a tall rectangular block with an outer envelope of about 76.2 by 50.8 by 152.4 units. A deep U-shaped slot opens downward from the top face and leaves two upper prongs, but the exterior still reads as a single block rather than a forked frame in side view. Apart from that top-entry slot, the side faces stay flat and plain, with no circular holes or additional side recesses.
+</prompt>
+
+<prompt>
+This solid is a thin-walled bracket frame approximately 120 units long, 40 units high, and 21 units deep. Two side walls are tied together by a lower bridge and an upper sloping web, leaving a large open central window. Inside that opening sits a narrower middle panel carrying one large circular opening together with four smaller surrounding holes, and each outer end plate contains one small hole. The result is a light frame-like component with substantial open space, not a closed solid block.
+</prompt>
+
+<prompt>
+This solid is a flat three-lobed washer-like plate about 299.75 by 276.72 units in plan and about 15 units thick. A circular through-hole occupies the center, the outer boundary swells into three rounded lobes, and the spaces between them are shaped by concave inward arcs. The plate remains thin and uniform, with no ribs, bosses, extra holes, or stepped thickness variations.
+</prompt>
+
+<prompt>
+This solid is an elongated mounting plate about 108 units long, 53.1 units wide, and 10.7 units thick. It has one large central circular through-hole, four smaller holes around that center region, and one additional mounting hole near each end. The side outline is slightly stepped rather than purely rectangular, but the body remains a thin plate with no pockets, protrusions, or slot features.
+</prompt>
+
+<prompt>
+This solid is a thin asymmetric plate about 193.76 by 160 units in plan and 10 units thick. Its outline includes a slanted side, a narrowed middle, and a forked extension at one end; the broad body carries five circular mounting holes, while the fork contains two long parallel rounded-end slots separated by a solid web. The thickness remains uniform and there are no raised levels or enclosed pockets.
+</prompt>
+
+<prompt>
+This solid is a thin-walled rectangular box-like shell about 230 units long, 130 units wide, and 45 units thick. In plan it reads as a rounded rectangle, and the exterior vertical edges are smoothly blended rather than sharp. One large face opens into a hollow cavity, while the opposite large face remains closed, so the form is not a solid block. Aside from that open-sided cavity, the exterior remains clean, with no holes, steps, slots, or local protrusions.
+</prompt>
+
+<prompt>
+This solid is a fastener-like part approximately 12.95 units high, made from a broad circular head about 10.5 units across and a short cylindrical shank below. The top face of the head contains a centered polygonal socket-like recess that stays fully inside the head diameter. Outside that recess, the shape remains smooth and mostly rotational, with no side holes or added attachments.
+</prompt>
+
+<prompt>
+This solid is a helical compression spring with an outer diameter of about 8.63 units and a free length of about 8.70 units. It is formed from round wire wound into multiple evenly spaced turns around a central cylindrical void, giving a regular open helix. No hooks, flattened end turns, end plates, or attached hardware are part of the geometry.
+</prompt>
+
+<prompt>
+This solid is a regular hexagonal nut-like body about 59.96 units across corners, about 55.87 units across flats, and about 30.63 units thick. A centered circular through-hole runs along the main axis, leaving a continuous wall between the hole and the six planar outer faces. The top and bottom remain flat and parallel, and no flange, side slot, or decorative detail is added.
+</prompt>
+
+<prompt>
+This solid is a flange-like body with an outer diameter of about 228.6 units and a total axial height of about 79.38 units. Eight evenly spaced circular bolt holes sit near the perimeter of the flange plate, while a broad cylindrical hub projects from the rear center. The geometry stays centered on one axis, with the bolt-hole ring providing the main repeated non-axisymmetric detail.
+</prompt>
+
+<prompt>
+This solid is a bracket-like plate-like body within an envelope of about 110 by 85 by 55 units. One side carries a large cylindrical boss with a centered through-hole, an adjacent plate region contains one smaller circular hole, and the opposite end is cut by a deep side opening that leaves separated upper and lower projections with an open gap. The part therefore combines a bossed perforated region, a secondary hole, and a clearly open end geometry.
+</prompt>
+
+<prompt>
+This solid is a right-angle bracket occupying roughly 381 by 158.75 by 44.45 units overall. A large rectangular panel forms the main wall, and along one side it meets a narrower perpendicular flange containing four circular through-holes arranged in a single vertical row. The body remains sheet-like and of nearly uniform thickness, without extra cutouts, ribs, or embossed features.
+</prompt>
+
+<prompt>
+This solid is a plate-like body with a regular five-pointed star outline spanning about 138.56 by 123.81 units. A short circular boss rises from the center of the top face, increasing the height locally while the star-shaped base stays much thinner. No holes, recesses, or extra edge features interrupt the clean star perimeter and centered boss arrangement.
+</prompt>
+
+<prompt>
+This solid is a shallow tray-like support structure with a base footprint of about 420 by 260 units and a total height of about 325 units. A flat rectangular base carries one slender upright post at each corner, while the spaces between the posts stay open instead of being closed by side walls. No internal partitions, covers, perforations, or extra framing tiers are introduced beyond the base and four uprights.
+</prompt>
+
+<prompt>
+This solid is a thin plate about 170 units long, 120 units wide, and 15 units thick, with a softened octagonal or rounded-rectangular outline. Two circular through-holes sit near opposite ends along the long axis and are aligned with one another, leaving a broad uninterrupted central region. The perimeter remains smooth and continuous, with no slots, teeth, or added edge features.
+</prompt>
+
+<prompt>
+This solid is a compact rotationally symmetric round component with an outer diameter of about 59.21 units and an axial length of about 27.94 units. Three coaxial circular discs or rim-like flanges overlap around a shared solid center, creating a layered spool-like silhouette rather than one continuous taper. The center stays solid, and there are no spokes, cross-holes, or non-circular interruptions.
+</prompt>
+
+<prompt>
+This solid is a torus with an outer diameter of about 49.05 units and a tube diameter of about 5.08 units. It forms a continuous closed ring whose centerline is circular and whose tube cross-section remains rounded all the way around. No flats, seams, tabs, cuts, or local protrusions disturb the pure toroidal shape.
+</prompt>
+
+<prompt>
+This solid is a ninety-degree angle bracket about 70 units long, 35 units high, and 20 units deep. The horizontal flange contains three larger circular through-holes in a row, while the vertical flange carries two smaller mounting holes. Both legs keep a uniform thickness, and the bracket remains a simple bent form without ribs, slots, or extra reinforcement features.
+</prompt>
+
+<prompt>
+This solid is an upright block about 50.8 by 50.8 by 101.6 units overall. Its top edge is sloped rather than level, and one side contains a deep rectangular recess that removes enough material to create an L-shaped side profile. Outside that large recess, the exterior stays plain, with no round holes, bosses, or separate attachments.
+</prompt>
+
+<prompt>
+This solid is a clevis-like block about 127 units long and about 50.8 by 50.8 units in the other two directions. One end becomes a rounded lug with a circular through-hole, and a top slot in that same end splits the material into two parallel arms. The opposite end remains a more solid rectangular mass without additional holes or local cut features.
+</prompt>
+
+<prompt>
+This solid is a bracket-like body about 79.86 units long, 50 units high, and 40 units deep. One end is rounded and pierced by a circular through-hole, the opposite end thickens into a terminal block, and a triangular rib braces the upper arm from below. The angled void beneath the arm stays openly visible rather than being filled in, and no extra perforations or decorative details are added.
+</prompt>

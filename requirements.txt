@@ -1,0 +1,9 @@
+numpy
+scipy
+trimesh
+PyYAML
+Pillow
+matplotlib
+openpyxl
+pandas
+

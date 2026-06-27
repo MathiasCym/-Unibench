@@ -1,0 +1,159 @@
+<prompt>
+A tall circular frustum with a flat circular top and bottom, slightly wider at the top than at the base.
+</prompt>
+
+<prompt>
+A very thin square plate with flat top and bottom faces and sharp straight edges.
+</prompt>
+
+<prompt>
+A short solid cylinder with a flat circular top and bottom.
+</prompt>
+
+<prompt>
+A rectangular bar with a semicircular notch cut into one short side.
+</prompt>
+
+<prompt>
+A flat triangular mounting plate with three circular holes near its corners.
+</prompt>
+
+<prompt>
+A rectangular block with a circular recess on its top face.
+</prompt>
+
+<prompt>
+A thin tapered plate with three circular holes in a row.
+</prompt>
+
+<prompt>
+A square pedestal with a stepped base and a pyramid-shaped top.
+</prompt>
+
+<prompt>
+A thin circular ring with a hollow center.
+</prompt>
+
+<prompt>
+A thin U-shaped frame with short feet at both lower ends.
+</prompt>
+
+<prompt>
+A very thin straight cylindrical rod.
+</prompt>
+
+<prompt>
+A thin square plate with rounded corners and a circular pocket near one corner.
+</prompt>
+
+<prompt>
+A long rounded-end bar with flat top and bottom faces.
+</prompt>
+
+<prompt>
+A flat teardrop-shaped prism with one rounded end and one pointed end.
+</prompt>
+
+<prompt>
+A short solid cylinder with one plain circular end and one concentric stepped circular end.
+</prompt>
+
+<prompt>
+A round flange plate with one large center hole, six smaller bolt holes around it, and a short cylindrical hub on the back.
+</prompt>
+
+<prompt>
+A thin rectangular plate with four circular corner holes.
+</prompt>
+
+<prompt>
+A long cylindrical rod with a small cross-hole near one end.
+</prompt>
+
+<prompt>
+A rounded-top rectangular plate with two holes near its upper corners.
+</prompt>
+
+<prompt>
+A tall rectangular block with a deep U-shaped slot cut into the top.
+</prompt>
+
+<prompt>
+A bracket-like open frame with two end plates, a sloped top, a large round hole in the middle panel, and small mounting holes.
+</prompt>
+
+<prompt>
+A thin three-lobed ring with a round hole in the center.
+</prompt>
+
+<prompt>
+A thin stepped mounting plate with one large center hole, four smaller holes around it, and one extra hole near each end.
+</prompt>
+
+<prompt>
+An asymmetric forked plate with five round mounting holes and two long parallel slots in the forked end.
+</prompt>
+
+<prompt>
+A rounded rectangular hollow box with one large open side and one closed side.
+</prompt>
+
+<prompt>
+A screw-like part with a wide round head, a short cylindrical shaft, and a recessed polygonal socket in the top.
+</prompt>
+
+<prompt>
+A helical coil spring.
+</prompt>
+
+<prompt>
+A hexagonal nut with a round hole through the middle.
+</prompt>
+
+<prompt>
+A round flange with eight small holes around the edge and a cylindrical hub on the back.
+</prompt>
+
+<prompt>
+A bracket-like plate with a large cylindrical boss with a center hole, a smaller round hole in the plate, and a deep side opening at one end.
+</prompt>
+
+<prompt>
+A long thin L-shaped bracket with a broad flat panel, a narrow perpendicular flange running along one long edge, and four holes in that flange.
+</prompt>
+
+<prompt>
+A five-pointed star plate with a short round raised center boss.
+</prompt>
+
+<prompt>
+An open tray-like base with four upright corner posts.
+</prompt>
+
+<prompt>
+A rounded rectangular plate with two holes, one near each end.
+</prompt>
+
+<prompt>
+A solid round part made from three coaxial circular discs or rims overlapping around the same center.
+</prompt>
+
+<prompt>
+A thin circular ring with a rounded cross-section.
+</prompt>
+
+<prompt>
+An L-shaped angle bracket with three large holes on one side and two small holes on the other.
+</prompt>
+
+<prompt>
+A tall upright block with a sloped top and a deep rectangular side recess.
+</prompt>
+
+<prompt>
+A block with a rounded end hole and a top slot.
+</prompt>
+
+<prompt>
+An angled bracket with a round hole at one end and a triangular support underneath.
+</prompt>

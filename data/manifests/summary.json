@@ -1,0 +1,22 @@
+{
+  "source_root": "data/prompts/prompt_robustness",
+  "output_root": "data/manifests",
+  "variants": {
+    "WO": {
+      "source": "data/prompts/prompt_robustness/intermediate_word_order_variant.jsonl",
+      "manifest": "data/manifests/prompt_robustness_WO.jsonl",
+      "count": 40,
+      "first": "I001",
+      "last": "I040",
+      "variant_type": "word_order"
+    },
+    "RD": {
+      "source": "data/prompts/prompt_robustness/intermediate_redundant_variant.jsonl",
+      "manifest": "data/manifests/prompt_robustness_RD.jsonl",
+      "count": 40,
+      "first": "I001",
+      "last": "I040",
+      "variant_type": "redundant"
+    }
+  }
+}

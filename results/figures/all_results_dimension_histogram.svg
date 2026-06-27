@@ -1,0 +1,125 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2050" height="1960" viewBox="0 0 2050 1960">
+<rect width="100%" height="100%" fill="#FFFFFF"/>
+<text x="125" y="78" font-family="Times New Roman, Times, serif" font-size="52" font-weight="bold" text-anchor="start" fill="#18392B">Method</text>
+<text x="520" y="78" font-family="Times New Roman, Times, serif" font-size="52" font-weight="bold" text-anchor="start" fill="#18392B">Absolute composite dimension score (0-100)</text>
+<line x1="520.0" y1="272" x2="520.0" y2="1850" stroke="#D7DFD8" stroke-width="1"/>
+<line x1="520.0" y1="1850" x2="520.0" y2="1857" stroke="#5C665F" stroke-width="1"/>
+<text x="520.0" y="1902" font-family="Times New Roman, Times, serif" font-size="38" font-weight="normal" text-anchor="middle" fill="#5C665F">0</text>
+<line x1="857.5" y1="272" x2="857.5" y2="1850" stroke="#D7DFD8" stroke-width="1"/>
+<line x1="857.5" y1="1850" x2="857.5" y2="1857" stroke="#5C665F" stroke-width="1"/>
+<text x="857.5" y="1902" font-family="Times New Roman, Times, serif" font-size="38" font-weight="normal" text-anchor="middle" fill="#5C665F">25</text>
+<line x1="1195.0" y1="272" x2="1195.0" y2="1850" stroke="#D7DFD8" stroke-width="1"/>
+<line x1="1195.0" y1="1850" x2="1195.0" y2="1857" stroke="#5C665F" stroke-width="1"/>
+<text x="1195.0" y="1902" font-family="Times New Roman, Times, serif" font-size="38" font-weight="normal" text-anchor="middle" fill="#5C665F">50</text>
+<line x1="1532.5" y1="272" x2="1532.5" y2="1850" stroke="#D7DFD8" stroke-width="1"/>
+<line x1="1532.5" y1="1850" x2="1532.5" y2="1857" stroke="#5C665F" stroke-width="1"/>
+<text x="1532.5" y="1902" font-family="Times New Roman, Times, serif" font-size="38" font-weight="normal" text-anchor="middle" fill="#5C665F">75</text>
+<line x1="1870.0" y1="272" x2="1870.0" y2="1850" stroke="#D7DFD8" stroke-width="1"/>
+<line x1="1870.0" y1="1850" x2="1870.0" y2="1857" stroke="#5C665F" stroke-width="1"/>
+<text x="1870.0" y="1902" font-family="Times New Roman, Times, serif" font-size="38" font-weight="normal" text-anchor="middle" fill="#5C665F">100</text>
+<line x1="520" y1="1850" x2="1870" y2="1850" stroke="#5C665F" stroke-width="1"/>
+<rect x="520" y="132" width="48" height="33" rx="6" fill="#0B4F2A"/>
+<text x="582" y="158" font-family="Times New Roman, Times, serif" font-size="38" font-weight="normal" text-anchor="start" fill="#1A1A1A">Geometry Accuracy</text>
+<rect x="950" y="132" width="48" height="33" rx="6" fill="#2B6F8A"/>
+<text x="1012" y="158" font-family="Times New Roman, Times, serif" font-size="38" font-weight="normal" text-anchor="start" fill="#1A1A1A">Semantic Fidelity</text>
+<rect x="1380" y="132" width="48" height="33" rx="6" fill="#C77C2B"/>
+<text x="1442" y="158" font-family="Times New Roman, Times, serif" font-size="38" font-weight="normal" text-anchor="start" fill="#1A1A1A">Prompt Robustness</text>
+<rect x="50" y="260" width="1885" height="180" fill="#F7FBF8"/>
+<text x="125" y="353.6" font-family="Times New Roman, Times, serif" font-size="48" font-weight="bold" text-anchor="start" fill="#1A1A1A">DeepSeek-v4</text>
+<text x="125" y="404.0" font-family="Times New Roman, Times, serif" font-size="48" font-weight="bold" text-anchor="start" fill="#1A1A1A">Flash(API)</text>
+<rect x="520" y="310" width="1350" height="32" rx="7" fill="#EEF3EF"/>
+<rect x="520" y="310" width="948.25" height="32" rx="7" fill="#0B4F2A"/>
+<text x="1482.2539676097922" y="340" font-family="Times New Roman, Times, serif" font-size="38" font-weight="normal" text-anchor="start" fill="#1A1A1A">70.2</text>
+<rect x="520" y="360" width="1350" height="32" rx="7" fill="#EEF3EF"/>
+<rect x="520" y="360" width="869.13" height="32" rx="7" fill="#2B6F8A"/>
+<text x="1403.13" y="390" font-family="Times New Roman, Times, serif" font-size="38" font-weight="normal" text-anchor="start" fill="#1A1A1A">64.4</text>
+<rect x="520" y="410" width="1350" height="32" rx="7" fill="#EEF3EF"/>
+<rect x="520" y="410" width="1111.77" height="32" rx="7" fill="#C77C2B"/>
+<text x="1645.76859375" y="440" font-family="Times New Roman, Times, serif" font-size="38" font-weight="normal" text-anchor="start" fill="#1A1A1A">82.4</text>
+<rect x="50" y="440" width="1885" height="180" fill="#FFFFFF"/>
+<text x="125" y="533.5999999999999" font-family="Times New Roman, Times, serif" font-size="48" font-weight="bold" text-anchor="start" fill="#1A1A1A">Codex 5.5</text>
+<text x="125" y="583.9999999999999" font-family="Times New Roman, Times, serif" font-size="48" font-weight="bold" text-anchor="start" fill="#1A1A1A">(MCP)</text>
+<rect x="520" y="490" width="1350" height="32" rx="7" fill="#EEF3EF"/>
+<rect x="520" y="490" width="949.36" height="32" rx="7" fill="#0B4F2A"/>
+<text x="1483.3593547085488" y="520" font-family="Times New Roman, Times, serif" font-size="38" font-weight="normal" text-anchor="start" fill="#1A1A1A">70.3</text>
+<rect x="520" y="540" width="1350" height="32" rx="7" fill="#EEF3EF"/>
+<rect x="520" y="540" width="1164.38" height="32" rx="7" fill="#2B6F8A"/>
+<text x="1698.375" y="570" font-family="Times New Roman, Times, serif" font-size="38" font-weight="normal" text-anchor="start" fill="#1A1A1A">86.2</text>
+<rect x="520" y="590" width="1350" height="32" rx="7" fill="#EEF3EF"/>
+<rect x="520" y="590" width="1221.98" height="32" rx="7" fill="#C77C2B"/>
+<text x="1755.9834375" y="620" font-family="Times New Roman, Times, serif" font-size="38" font-weight="normal" text-anchor="start" fill="#1A1A1A">90.5</text>
+<rect x="50" y="620" width="1885" height="180" fill="#F7FBF8"/>
+<text x="125" y="713.5999999999999" font-family="Times New Roman, Times, serif" font-size="48" font-weight="bold" text-anchor="start" fill="#1A1A1A">Text-to-</text>
+<text x="125" y="763.9999999999999" font-family="Times New Roman, Times, serif" font-size="48" font-weight="bold" text-anchor="start" fill="#1A1A1A">CadQuery</text>
+<rect x="520" y="670" width="1350" height="32" rx="7" fill="#EEF3EF"/>
+<rect x="520" y="670" width="544.48" height="32" rx="7" fill="#0B4F2A"/>
+<text x="1078.4779184205602" y="700" font-family="Times New Roman, Times, serif" font-size="38" font-weight="normal" text-anchor="start" fill="#1A1A1A">40.3</text>
+<rect x="520" y="720" width="1350" height="32" rx="7" fill="#EEF3EF"/>
+<rect x="520" y="720" width="427.55" height="32" rx="7" fill="#2B6F8A"/>
+<text x="961.5450000000001" y="750" font-family="Times New Roman, Times, serif" font-size="38" font-weight="normal" text-anchor="start" fill="#1A1A1A">31.7</text>
+<rect x="520" y="770" width="1350" height="32" rx="7" fill="#EEF3EF"/>
+<rect x="520" y="770" width="434.56" height="32" rx="7" fill="#C77C2B"/>
+<text x="968.56078125" y="800" font-family="Times New Roman, Times, serif" font-size="38" font-weight="normal" text-anchor="start" fill="#1A1A1A">32.2</text>
+<rect x="50" y="800" width="1885" height="180" fill="#FFFFFF"/>
+<text x="125" y="918.8" font-family="Times New Roman, Times, serif" font-size="48" font-weight="bold" text-anchor="start" fill="#1A1A1A">Text2CAD</text>
+<rect x="520" y="850" width="1350" height="32" rx="7" fill="#EEF3EF"/>
+<rect x="520" y="850" width="468.57" height="32" rx="7" fill="#0B4F2A"/>
+<text x="1002.5743180898148" y="880" font-family="Times New Roman, Times, serif" font-size="38" font-weight="normal" text-anchor="start" fill="#1A1A1A">34.7</text>
+<rect x="520" y="900" width="1350" height="32" rx="7" fill="#EEF3EF"/>
+<rect x="520" y="900" width="445.77" height="32" rx="7" fill="#2B6F8A"/>
+<text x="979.7700000000001" y="930" font-family="Times New Roman, Times, serif" font-size="38" font-weight="normal" text-anchor="start" fill="#1A1A1A">33.0</text>
+<rect x="520" y="950" width="1350" height="32" rx="7" fill="#EEF3EF"/>
+<rect x="520" y="950" width="396.75" height="32" rx="7" fill="#C77C2B"/>
+<text x="930.7481250000001" y="980" font-family="Times New Roman, Times, serif" font-size="38" font-weight="normal" text-anchor="start" fill="#1A1A1A">29.4</text>
+<rect x="50" y="1090" width="1885" height="180" fill="#F7FBF8"/>
+<line x1="50" y1="1035.0" x2="1935" y2="1035.0" stroke="#6F8F7A" stroke-width="3"/>
+<text x="125" y="1183.6" font-family="Times New Roman, Times, serif" font-size="48" font-weight="bold" text-anchor="start" fill="#1A1A1A">Claude</text>
+<text x="125" y="1234.0" font-family="Times New Roman, Times, serif" font-size="48" font-weight="bold" text-anchor="start" fill="#1A1A1A">Opus 4.7</text>
+<rect x="520" y="1140" width="1350" height="32" rx="7" fill="#EEF3EF"/>
+<rect x="520" y="1140" width="951.77" height="32" rx="7" fill="#0B4F2A"/>
+<text x="1485.7674214285714" y="1170" font-family="Times New Roman, Times, serif" font-size="38" font-weight="normal" text-anchor="start" fill="#1A1A1A">70.5</text>
+<rect x="520" y="1190" width="1350" height="32" rx="7" fill="#EEF3EF"/>
+<rect x="520" y="1190" width="1174.23" height="32" rx="7" fill="#2B6F8A"/>
+<text x="1708.23" y="1220" font-family="Times New Roman, Times, serif" font-size="38" font-weight="normal" text-anchor="start" fill="#1A1A1A">87.0</text>
+<rect x="520" y="1240" width="1350" height="32" rx="7" fill="#EEF3EF"/>
+<rect x="520" y="1240" width="1065.26" height="32" rx="7" fill="#C77C2B"/>
+<text x="1599.26109375" y="1270" font-family="Times New Roman, Times, serif" font-size="38" font-weight="normal" text-anchor="start" fill="#1A1A1A">78.9</text>
+<rect x="50" y="1270" width="1885" height="180" fill="#FFFFFF"/>
+<text x="125" y="1363.6" font-family="Times New Roman, Times, serif" font-size="48" font-weight="bold" text-anchor="start" fill="#1A1A1A">ChatGPT</text>
+<text x="125" y="1414.0" font-family="Times New Roman, Times, serif" font-size="48" font-weight="bold" text-anchor="start" fill="#1A1A1A">5.4</text>
+<rect x="520" y="1320" width="1350" height="32" rx="7" fill="#EEF3EF"/>
+<rect x="520" y="1320" width="943.10" height="32" rx="7" fill="#0B4F2A"/>
+<text x="1477.099662857143" y="1350" font-family="Times New Roman, Times, serif" font-size="38" font-weight="normal" text-anchor="start" fill="#1A1A1A">69.9</text>
+<rect x="520" y="1370" width="1350" height="32" rx="7" fill="#EEF3EF"/>
+<rect x="520" y="1370" width="1099.71" height="32" rx="7" fill="#2B6F8A"/>
+<text x="1633.7099999999998" y="1400" font-family="Times New Roman, Times, serif" font-size="38" font-weight="normal" text-anchor="start" fill="#1A1A1A">81.5</text>
+<rect x="520" y="1420" width="1350" height="32" rx="7" fill="#EEF3EF"/>
+<rect x="520" y="1420" width="1183.59" height="32" rx="7" fill="#C77C2B"/>
+<text x="1717.5871875" y="1450" font-family="Times New Roman, Times, serif" font-size="38" font-weight="normal" text-anchor="start" fill="#1A1A1A">87.7</text>
+<rect x="50" y="1450" width="1885" height="180" fill="#F7FBF8"/>
+<text x="125" y="1543.6" font-family="Times New Roman, Times, serif" font-size="48" font-weight="bold" text-anchor="start" fill="#1A1A1A">Qwen</text>
+<text x="125" y="1594.0" font-family="Times New Roman, Times, serif" font-size="48" font-weight="bold" text-anchor="start" fill="#1A1A1A">3.7-Plus</text>
+<rect x="520" y="1500" width="1350" height="32" rx="7" fill="#EEF3EF"/>
+<rect x="520" y="1500" width="920.52" height="32" rx="7" fill="#0B4F2A"/>
+<text x="1454.5235614285712" y="1530" font-family="Times New Roman, Times, serif" font-size="38" font-weight="normal" text-anchor="start" fill="#1A1A1A">68.2</text>
+<rect x="520" y="1550" width="1350" height="32" rx="7" fill="#EEF3EF"/>
+<rect x="520" y="1550" width="1071.63" height="32" rx="7" fill="#2B6F8A"/>
+<text x="1605.63" y="1580" font-family="Times New Roman, Times, serif" font-size="38" font-weight="normal" text-anchor="start" fill="#1A1A1A">79.4</text>
+<rect x="520" y="1600" width="1350" height="32" rx="7" fill="#EEF3EF"/>
+<rect x="520" y="1600" width="982.71" height="32" rx="7" fill="#C77C2B"/>
+<text x="1516.7128125" y="1630" font-family="Times New Roman, Times, serif" font-size="38" font-weight="normal" text-anchor="start" fill="#1A1A1A">72.8</text>
+<rect x="50" y="1630" width="1885" height="180" fill="#FFFFFF"/>
+<text x="125" y="1723.6" font-family="Times New Roman, Times, serif" font-size="48" font-weight="bold" text-anchor="start" fill="#1A1A1A">Gemini 3.5</text>
+<text x="125" y="1774.0" font-family="Times New Roman, Times, serif" font-size="48" font-weight="bold" text-anchor="start" fill="#1A1A1A">Flash</text>
+<rect x="520" y="1680" width="1350" height="32" rx="7" fill="#EEF3EF"/>
+<rect x="520" y="1680" width="888.75" height="32" rx="7" fill="#0B4F2A"/>
+<text x="1422.74739" y="1710" font-family="Times New Roman, Times, serif" font-size="38" font-weight="normal" text-anchor="start" fill="#1A1A1A">65.8</text>
+<rect x="520" y="1730" width="1350" height="32" rx="7" fill="#EEF3EF"/>
+<rect x="520" y="1730" width="861.98" height="32" rx="7" fill="#2B6F8A"/>
+<text x="1395.975" y="1760" font-family="Times New Roman, Times, serif" font-size="38" font-weight="normal" text-anchor="start" fill="#1A1A1A">63.9</text>
+<rect x="520" y="1780" width="1350" height="32" rx="7" fill="#EEF3EF"/>
+<rect x="520" y="1780" width="945.51" height="32" rx="7" fill="#C77C2B"/>
+<text x="1479.5090625000003" y="1810" font-family="Times New Roman, Times, serif" font-size="38" font-weight="normal" text-anchor="start" fill="#1A1A1A">70.0</text>
+<text x="48" y="620.0" font-family="Times New Roman, Times, serif" font-size="44" font-weight="bold" text-anchor="middle" fill="#18392B" transform="rotate(90 48 620.0)">Open-loop Workflow</text>
+<text x="48" y="1450.0" font-family="Times New Roman, Times, serif" font-size="44" font-weight="bold" text-anchor="middle" fill="#18392B" transform="rotate(90 48 1450.0)">Closed-loop Workflow</text>
+</svg>

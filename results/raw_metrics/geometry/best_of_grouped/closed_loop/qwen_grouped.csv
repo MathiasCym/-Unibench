@@ -1,0 +1,4 @@
+level,sample_count,row_count,compile_success,chamfer_distance,hausdorff_distance,watertight_pred,eecm
+beginner,40,40,1.0,0.059178481550606496,0.1774809433059828,0.95,0.8
+expert,40,40,1.0,0.033901445191606316,0.13555418331261082,0.95,0.65
+intermediate,40,40,1.0,0.026746807033396557,0.12644519508431734,1.0,0.7

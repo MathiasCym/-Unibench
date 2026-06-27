@@ -1,0 +1,41 @@
+target_id,status,beginner_checked,intermediate_checked,expert_checked,topology_checked,counts_checked,open_closed_checked,blind_through_checked,notes
+UB40-T001,reviewed,yes,yes,yes,yes,yes,yes,yes,first-pass panel audit completed; no obvious mismatch found
+UB40-T002,reviewed,yes,yes,yes,yes,yes,yes,yes,first-pass panel audit completed; no obvious mismatch found
+UB40-T003,reviewed,yes,yes,yes,yes,yes,yes,yes,first-pass panel audit completed; no obvious mismatch found
+UB40-T004,reviewed,yes,yes,yes,yes,yes,yes,yes,first-pass panel audit completed; no obvious mismatch found
+UB40-T005,reviewed,yes,yes,yes,yes,yes,yes,yes,first-pass panel audit completed; no obvious mismatch found
+UB40-T006,corrected,yes,yes,yes,yes,yes,yes,yes,top recess position corrected from offset-toward-one-end to near-central placement
+UB40-T007,reviewed,yes,yes,yes,yes,yes,yes,yes,first-pass panel audit completed; no obvious mismatch found
+UB40-T008,reviewed,yes,yes,yes,yes,yes,yes,yes,first-pass panel audit completed; no obvious mismatch found
+UB40-T009,reviewed,yes,yes,yes,yes,yes,yes,yes,first-pass panel audit completed; no obvious mismatch found
+UB40-T010,reviewed,yes,yes,yes,yes,yes,yes,yes,first-pass panel audit completed; no obvious mismatch found
+UB40-T011,reviewed,yes,yes,yes,yes,yes,yes,yes,first-pass panel audit completed; no obvious mismatch found
+UB40-T012,reviewed,yes,yes,yes,yes,yes,yes,yes,first-pass panel audit completed; no obvious mismatch found
+UB40-T013,reviewed,yes,yes,yes,yes,yes,yes,yes,first-pass panel audit completed; no obvious mismatch found
+UB40-T014,reviewed,yes,yes,yes,yes,yes,yes,yes,first-pass panel audit completed; no obvious mismatch found
+UB40-T015,corrected,yes,yes,yes,yes,yes,yes,yes,changed from frustum to short cylinder with one concentric stepped end
+UB40-T016,corrected,yes,yes,yes,yes,yes,yes,yes,beginner had lost rear hub; manually corrected
+UB40-T017,reviewed,yes,yes,yes,yes,yes,yes,yes,first-pass panel audit completed; no obvious mismatch found
+UB40-T018,reviewed,yes,yes,yes,yes,yes,yes,yes,first-pass panel audit completed; no obvious mismatch found
+UB40-T019,reviewed,yes,yes,yes,yes,yes,yes,yes,first-pass panel audit completed; no obvious mismatch found
+UB40-T020,corrected,yes,yes,yes,yes,yes,yes,yes,slot clarified as deep U-shaped top slot creating two upper prongs
+UB40-T021,corrected,yes,yes,yes,yes,yes,yes,yes,reworked as open frame with central perforated panel
+UB40-T022,corrected,yes,yes,yes,yes,yes,yes,yes,lobe count corrected from four to three
+UB40-T023,corrected,yes,yes,yes,yes,yes,yes,yes,hole counts clarified
+UB40-T024,corrected,yes,yes,yes,yes,yes,yes,yes,hole count and slot description clarified
+UB40-T025,corrected,yes,yes,yes,yes,yes,yes,yes,changed from solid block to hollow one-side-open box
+UB40-T026,corrected,yes,yes,yes,yes,yes,yes,yes,top socket restored in beginner
+UB40-T027,reviewed,yes,yes,yes,yes,yes,yes,yes,first-pass panel audit completed; no obvious mismatch found
+UB40-T028,reviewed,yes,yes,yes,yes,yes,yes,yes,first-pass panel audit completed; no obvious mismatch found
+UB40-T029,corrected,yes,yes,yes,yes,yes,yes,yes,hub description softened from stepped cylindrical hub to broad cylindrical rear hub
+UB40-T030,corrected,yes,yes,yes,yes,yes,yes,yes,"reworked around cylindrical boss, smaller plate hole, and deep side opening; removed unsupported diagonal rib inference"
+UB40-T031,corrected,yes,yes,yes,yes,yes,yes,yes,corrected from short end flange to continuous long-edge bent flange with four holes
+UB40-T032,corrected,yes,yes,yes,yes,yes,yes,yes,center boss restored
+UB40-T033,corrected,yes,yes,yes,yes,yes,yes,yes,reframed as open tray-like base with four posts
+UB40-T034,reviewed,yes,yes,yes,yes,yes,yes,yes,first-pass panel audit completed; no obvious mismatch found
+UB40-T035,corrected,yes,yes,yes,yes,yes,yes,yes,corrected from generic stepped wheel wording to three overlapping coaxial disc-like elements around a solid core
+UB40-T036,reviewed,yes,yes,yes,yes,yes,yes,yes,first-pass panel audit completed; no obvious mismatch found
+UB40-T037,reviewed,yes,yes,yes,yes,yes,yes,yes,first-pass panel audit completed; no obvious mismatch found
+UB40-T038,corrected,yes,yes,yes,yes,yes,yes,yes,changed from plate to upright block with deep side recess
+UB40-T039,reviewed,yes,yes,yes,yes,yes,yes,yes,first-pass panel audit completed; no obvious mismatch found
+UB40-T040,reviewed,yes,yes,yes,yes,yes,yes,yes,first-pass panel audit completed; no obvious mismatch found

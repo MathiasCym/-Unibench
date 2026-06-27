@@ -1,0 +1,199 @@
+# UB40-B001 | target=UB40-T001 | source_stl=UB40-T001.stl
+<prompt>
+A tall circular frustum with flat circular ends, a slightly wider top, and a smooth tapered side wall.
+</prompt>
+
+# UB40-B002 | target=UB40-T002 | source_stl=UB40-T002.stl
+<prompt>
+A very thin square plate with flat parallel faces, straight edges, and sharp corners.
+</prompt>
+
+# UB40-B003 | target=UB40-T003 | source_stl=UB40-T003.stl
+<prompt>
+A short solid cylinder with flat circular ends and a constant outer diameter.
+</prompt>
+
+# UB40-B004 | target=UB40-T004 | source_stl=UB40-T004.stl
+<prompt>
+A rectangular bar with one centered semicircular notch cut through a short side.
+</prompt>
+
+# UB40-B005 | target=UB40-T005 | source_stl=UB40-T005.stl
+<prompt>
+A flat rounded triangular plate with three circular holes, one near each corner.
+</prompt>
+
+# UB40-B006 | target=UB40-T006 | source_stl=UB40-T006.stl
+<prompt>
+A rectangular block with one large circular blind recess opened from the top face.
+</prompt>
+
+# UB40-B007 | target=UB40-T007 | source_stl=UB40-T007.stl
+<prompt>
+A thin tapered plate with three circular holes arranged in a straight row.
+</prompt>
+
+# UB40-B008 | target=UB40-T008 | source_stl=UB40-T008.stl
+<prompt>
+A square pedestal with a broad base, a smaller centered tier, and a pyramid-shaped top.
+</prompt>
+
+# UB40-B009 | target=UB40-T009 | source_stl=UB40-T009.stl
+<prompt>
+A thin annular ring with a concentric circular opening through the center.
+</prompt>
+
+# UB40-B010 | target=UB40-T010 | source_stl=UB40-T010.stl
+<prompt>
+A thin U-shaped open frame with a rectangular opening and short feet at the two lower ends.
+</prompt>
+
+# UB40-B011 | target=UB40-T011 | source_stl=UB40-T011.stl
+<prompt>
+A very slender straight cylindrical pin with flat ends and no head or taper.
+</prompt>
+
+# UB40-B012 | target=UB40-T012 | source_stl=UB40-T012.stl
+<prompt>
+A thin rounded-corner square plate with one large circular blind pocket near a corner.
+</prompt>
+
+# UB40-B013 | target=UB40-T013 | source_stl=UB40-T013.stl
+<prompt>
+A long capsule-shaped prism with straight sides joined by semicircular ends.
+</prompt>
+
+# UB40-B014 | target=UB40-T014 | source_stl=UB40-T014.stl
+<prompt>
+A flat teardrop-shaped prism with one rounded end and one pointed tip.
+</prompt>
+
+# UB40-B015 | target=UB40-T015 | source_stl=UB40-T015.stl
+<prompt>
+A short solid cylinder with one plain circular end and one concentric stepped circular end.
+</prompt>
+
+# UB40-B016 | target=UB40-T016 | source_stl=UB40-T016.stl
+<prompt>
+A round flange plate with one large center hole, six smaller bolt holes around it, and a short cylindrical hub on the back.
+</prompt>
+
+# UB40-B017 | target=UB40-T017 | source_stl=UB40-T017.stl
+<prompt>
+A thin rectangular plate with four circular holes placed near the corners.
+</prompt>
+
+# UB40-B018 | target=UB40-T018 | source_stl=UB40-T018.stl
+<prompt>
+A long cylindrical rod with a small cross-hole drilled near one end.
+</prompt>
+
+# UB40-B019 | target=UB40-T019 | source_stl=UB40-T019.stl
+<prompt>
+A rectangular plate with a rounded top edge and two holes near the upper corners.
+</prompt>
+
+# UB40-B020 | target=UB40-T020 | source_stl=UB40-T020.stl
+<prompt>
+A tall rectangular block with a centered rectangular slot cut down from the top.
+</prompt>
+
+# UB40-B021 | target=UB40-T021 | source_stl=UB40-T021.stl
+<prompt>
+A bracket-like open frame with two end plates, a sloped top, a large round hole in the middle panel, and small mounting holes.
+</prompt>
+
+# UB40-B022 | target=UB40-T022 | source_stl=UB40-T022.stl
+<prompt>
+A thin three-lobed ring with a circular center hole and curved recesses between the lobes.
+</prompt>
+
+# UB40-B023 | target=UB40-T023 | source_stl=UB40-T023.stl
+<prompt>
+A thin stepped mounting plate with one large center hole, four smaller holes around it, and one extra hole near each end.
+</prompt>
+
+# UB40-B024 | target=UB40-T024 | source_stl=UB40-T024.stl
+<prompt>
+An asymmetric forked plate with five round mounting holes and two long parallel slots in the forked end.
+</prompt>
+
+# UB40-B025 | target=UB40-T025 | source_stl=UB40-T025.stl
+<prompt>
+A rounded rectangular hollow box with one large open side and one closed side.
+</prompt>
+
+# UB40-B026 | target=UB40-T026 | source_stl=UB40-T026.stl
+<prompt>
+A screw-like part with a broad round head, a short shaft, and a recessed polygonal top socket.
+</prompt>
+
+# UB40-B027 | target=UB40-T027 | source_stl=UB40-T027.stl
+<prompt>
+A helical compression spring made from round wire wound around an open center.
+</prompt>
+
+# UB40-B028 | target=UB40-T028 | source_stl=UB40-T028.stl
+<prompt>
+A hexagonal nut with a circular through-hole running through the middle.
+</prompt>
+
+# UB40-B029 | target=UB40-T029 | source_stl=UB40-T029.stl
+<prompt>
+A round flange with eight small holes around the edge and a broad cylindrical hub on the back.
+</prompt>
+
+# UB40-B030 | target=UB40-T030 | source_stl=UB40-T030.stl
+<prompt>
+A bracket-like plate with a large cylindrical boss with a center hole, a smaller round hole in the plate, and a deep side opening at one end.
+</prompt>
+
+# UB40-B031 | target=UB40-T031 | source_stl=UB40-T031.stl
+<prompt>
+A long thin L-shaped bracket with a broad flat panel, a narrow perpendicular flange running along one long edge, and four holes in that flange.
+</prompt>
+
+# UB40-B032 | target=UB40-T032 | source_stl=UB40-T032.stl
+<prompt>
+A five-pointed star plate with a short round boss raised at the center.
+</prompt>
+
+# UB40-B033 | target=UB40-T033 | source_stl=UB40-T033.stl
+<prompt>
+A shallow open tray with a flat base and four upright corner posts.
+</prompt>
+
+# UB40-B034 | target=UB40-T034 | source_stl=UB40-T034.stl
+<prompt>
+A rounded rectangular plate with two circular holes, one placed near each end.
+</prompt>
+
+# UB40-B035 | target=UB40-T035 | source_stl=UB40-T035.stl
+<prompt>
+A solid round part made from three coaxial circular discs or rims overlapping around the same center.
+</prompt>
+
+# UB40-B036 | target=UB40-T036 | source_stl=UB40-T036.stl
+<prompt>
+A thin circular ring with a rounded tube-like cross-section.
+</prompt>
+
+# UB40-B037 | target=UB40-T037 | source_stl=UB40-T037.stl
+<prompt>
+An L-shaped angle bracket with three larger holes on one flange and two smaller holes on the other.
+</prompt>
+
+# UB40-B038 | target=UB40-T038 | source_stl=UB40-T038.stl
+<prompt>
+A tall upright block with a sloped top edge and one deep side recess.
+</prompt>
+
+# UB40-B039 | target=UB40-T039 | source_stl=UB40-T039.stl
+<prompt>
+A block with a rounded lug hole at one end and a top slot that splits that end into two arms.
+</prompt>
+
+# UB40-B040 | target=UB40-T040 | source_stl=UB40-T040.stl
+<prompt>
+An angled bracket with a round hole at one end and a triangular support rib below the upper arm.
+</prompt>

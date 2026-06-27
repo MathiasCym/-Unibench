@@ -1,0 +1,54 @@
+{
+  "updated_at": "2026-06-07",
+  "non_iterative": [
+    {
+      "id": "Text2CAD",
+      "display_name": "Text2CAD",
+      "status": "official"
+    },
+    {
+      "id": "CadQuery",
+      "display_name": "Text-to-CadQuery",
+      "status": "official"
+    },
+    {
+      "id": "DeepSeek",
+      "display_name": "DeepSeek",
+      "status": "official"
+    },
+    {
+      "id": "Codex-MCP",
+      "display_name": "Codex-MCP",
+      "status": "official"
+    }
+  ],
+  "iterative_capable": [
+    {
+      "id": "ChatGPT",
+      "display_name": "ChatGPT",
+      "status": "official"
+    },
+    {
+      "id": "Claude",
+      "display_name": "Claude",
+      "status": "official"
+    },
+    {
+      "id": "Gemini",
+      "display_name": "Gemini",
+      "status": "official"
+    },
+    {
+      "id": "Qwen",
+      "display_name": "Qwen",
+      "status": "official"
+    }
+  ],
+  "legacy_excluded": [
+    {
+      "id": "DeepCAD",
+      "display_name": "DeepCAD",
+      "reason": "Replaced in the official non-iterative cohort; retained as legacy exploratory output only."
+    }
+  ]
+}

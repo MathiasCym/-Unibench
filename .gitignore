@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+*.pyo
+*.log
+*.pid
+*.tmp
+*.bak
+*.FCBak
+.ipynb_checkpoints/
+outputs/
+tmp/
+work/
+full_results/
+*.h5
+*.pkl
+

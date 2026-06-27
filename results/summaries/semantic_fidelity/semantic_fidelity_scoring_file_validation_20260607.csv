@@ -1,0 +1,17 @@
+method,kind,rows,unique_ids,bad_like_rows
+Text2CAD,manual,120,120,0
+Text2CAD,ai,120,120,0
+Text-to-CadQuery,manual,120,120,0
+Text-to-CadQuery,ai,120,120,0
+DeepSeek,manual,120,120,0
+DeepSeek,ai,120,120,0
+Codex-MCP,manual,120,120,0
+Codex-MCP,ai,120,120,0
+ChatGPT,manual,120,120,0
+ChatGPT,ai,120,120,0
+Claude,manual,120,120,0
+Claude,ai,120,120,0
+Gemini,manual,120,120,0
+Gemini,ai,120,120,0
+Qwen,manual,120,120,0
+Qwen,ai,120,120,0
