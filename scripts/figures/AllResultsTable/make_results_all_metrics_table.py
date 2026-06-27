@@ -426,7 +426,7 @@ def render_png_and_svg() -> None:
     rect(xs[2], y, xs[6], y + group_h, dark, "FFFFFF")
     tbox("Open-loop Workflow", xs[2], y, xs[6], y + group_h, font_group, "FFFFFF")
     rect(xs[6], y, xs[10], y + group_h, dark, "FFFFFF")
-    tbox("Closed-loop Workflow", xs[6], y, xs[10], y + group_h, font_group, "FFFFFF")
+    tbox("Close-loop Workflow", xs[6], y, xs[10], y + group_h, font_group, "FFFFFF")
     y += group_h
 
     rect(xs[0], y, xs[1], y + header_h, dark, "FFFFFF")
@@ -516,7 +516,7 @@ def render_png_and_svg() -> None:
     svg.append(f'<rect x="{xs[2]}" y="{y}" width="{xs[6]-xs[2]}" height="{group_h}" fill="#{dark}" stroke="#FFFFFF" stroke-width="1"/>')
     svg_text("Open-loop Workflow", xs[2], y, xs[6], y + group_h, 34, "bold", "FFFFFF")
     svg.append(f'<rect x="{xs[6]}" y="{y}" width="{xs[10]-xs[6]}" height="{group_h}" fill="#{dark}" stroke="#FFFFFF" stroke-width="1"/>')
-    svg_text("Closed-loop Workflow", xs[6], y, xs[10], y + group_h, 34, "bold", "FFFFFF")
+    svg_text("Close-loop Workflow", xs[6], y, xs[10], y + group_h, 34, "bold", "FFFFFF")
     y += group_h
 
     svg.append(f'<rect x="{xs[0]}" y="{y}" width="{xs[1]-xs[0]}" height="{header_h}" fill="#{dark}" stroke="#FFFFFF" stroke-width="1"/>')

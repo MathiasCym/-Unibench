@@ -121,5 +121,5 @@
 <rect x="520" y="1780" width="945.51" height="32" rx="7" fill="#C77C2B"/>
 <text x="1479.5090625000003" y="1810" font-family="Times New Roman, Times, serif" font-size="38" font-weight="normal" text-anchor="start" fill="#1A1A1A">70.0</text>
 <text x="48" y="620.0" font-family="Times New Roman, Times, serif" font-size="44" font-weight="bold" text-anchor="middle" fill="#18392B" transform="rotate(90 48 620.0)">Open-loop Workflow</text>
-<text x="48" y="1450.0" font-family="Times New Roman, Times, serif" font-size="44" font-weight="bold" text-anchor="middle" fill="#18392B" transform="rotate(90 48 1450.0)">Closed-loop Workflow</text>
+<text x="48" y="1450.0" font-family="Times New Roman, Times, serif" font-size="44" font-weight="bold" text-anchor="middle" fill="#18392B" transform="rotate(90 48 1450.0)">Close-loop Workflow</text>
 </svg>

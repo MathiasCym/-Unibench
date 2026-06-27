@@ -35,10 +35,10 @@ ROWS = [
     ["Codex 5.5(MCP)", "Open-loop Workflow", 100.0, 0.0257584876473881, 0.02911213396475878, 0.1255725946325323, 0.02728794317877135, 52.5, 0.04149086660352641, 95.0, 73.33333333333333, 86.25, 0.003683, 0.010702, 100.0],
     ["Text-to-CadQuery", "Open-loop Workflow", 75.56, 0.06576484184549379, 0.07516595209576758, 0.2493548123862864, 0.04147110069782269, 45.0, 0.06315180390027489, 90.09009009009009, 44.14414414414414, 31.67, 0.024846, 0.066481, 77.5],
     ["Text2CAD", "Open-loop Workflow", 95.83, 0.0733961709336201, 0.08477588542650141, 0.283248230367192, 0.04583870282336967, 47.5, 0.0843310812915863, 92.5, 39.16666666666666, 33.02, 0.027693, 0.073596, 94.17],
-    ["Claude Opus 4.7", "Closed-loop Workflow", 94.14, 0.025263, 0.034785, 0.141544, 0.024553, 62.5, 0.037561, 98.33, 84.17, 86.98, 0.006791, 0.027939, 95.83],
-    ["ChatGPT 5.4", "Closed-loop Workflow", 90.12, 0.02694, 0.036417, 0.136991, 0.023325, 57.5, 0.039572, 99.15, 86.44, 81.46, 0.003795, 0.01787, 98.33],
-    ["Qwen 3.7-Plus", "Closed-loop Workflow", 96.62, 0.029084, 0.039942, 0.146493, 0.023788, 60.83, 0.040208, 96.67, 71.67, 79.38, 0.008966, 0.035906, 95.83],
-    ["Gemini 3.5 Flash", "Closed-loop Workflow", 78.07, 0.027444, 0.042068, 0.157122, 0.025021, 58.33, 0.042109, 95.69, 74.14, 63.85, 0.009925, 0.038282, 94.17],
+    ["Claude Opus 4.7", "Close-loop Workflow", 94.14, 0.025263, 0.034785, 0.141544, 0.024553, 62.5, 0.037561, 98.33, 84.17, 86.98, 0.006791, 0.027939, 95.83],
+    ["ChatGPT 5.4", "Close-loop Workflow", 90.12, 0.02694, 0.036417, 0.136991, 0.023325, 57.5, 0.039572, 99.15, 86.44, 81.46, 0.003795, 0.01787, 98.33],
+    ["Qwen 3.7-Plus", "Close-loop Workflow", 96.62, 0.029084, 0.039942, 0.146493, 0.023788, 60.83, 0.040208, 96.67, 71.67, 79.38, 0.008966, 0.035906, 95.83],
+    ["Gemini 3.5 Flash", "Close-loop Workflow", 78.07, 0.027444, 0.042068, 0.157122, 0.025021, 58.33, 0.042109, 95.69, 74.14, 63.85, 0.009925, 0.038282, 94.17],
 ]
 
 METHOD_LABELS = {
@@ -313,7 +313,7 @@ def render_png(scores: list[dict[str, str | float]]) -> None:
             draw_text(draw, (s(bar_x0 + bar_w * value / 100 + 14), s(yy - 10)), f"{value:.1f}", font_small, COLORS["Text"])
 
     vertical_group_label("Open-loop Workflow", group_x, top - 20, top + 4 * row_h - 20)
-    vertical_group_label("Closed-loop Workflow", group_x, top + 4 * row_h + group_gap - 20, top + 8 * row_h + group_gap - 20)
+    vertical_group_label("Close-loop Workflow", group_x, top + 4 * row_h + group_gap - 20, top + 8 * row_h + group_gap - 20)
 
     image.save(OUTPUT_PNG, dpi=(600, 600))
 
@@ -408,7 +408,7 @@ def render_svg(scores: list[dict[str, str | float]]) -> None:
     svg.append(
         f'<text x="{group_x}" y="{refinement_y}" font-family="Times New Roman, Times, serif" '
         f'font-size="44" font-weight="bold" text-anchor="middle" fill="#{COLORS["Dark"]}" '
-        f'transform="rotate(90 {group_x} {refinement_y})">Closed-loop Workflow</text>'
+        f'transform="rotate(90 {group_x} {refinement_y})">Close-loop Workflow</text>'
     )
 
     svg.append("</svg>")

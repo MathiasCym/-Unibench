@@ -5,7 +5,7 @@
 <rect x="415" y="34" width="660" height="78" fill="#0B4F2A" stroke="#FFFFFF" stroke-width="1"/>
 <text x="745.0" y="80.7" font-family="Times New Roman, Times, serif" font-size="34" font-weight="bold" text-anchor="middle" fill="#FFFFFF">Open-loop Workflow</text>
 <rect x="1075" y="34" width="660" height="78" fill="#0B4F2A" stroke="#FFFFFF" stroke-width="1"/>
-<text x="1405.0" y="80.7" font-family="Times New Roman, Times, serif" font-size="34" font-weight="bold" text-anchor="middle" fill="#FFFFFF">Closed-loop Workflow</text>
+<text x="1405.0" y="80.7" font-family="Times New Roman, Times, serif" font-size="34" font-weight="bold" text-anchor="middle" fill="#FFFFFF">Close-loop Workflow</text>
 <rect x="50" y="112" width="160" height="150" fill="#0B4F2A" stroke="#FFFFFF" stroke-width="1"/>
 <text x="130.0" y="194.6" font-family="Times New Roman, Times, serif" font-size="34" font-weight="bold" text-anchor="middle" fill="#FFFFFF">Dimension</text>
 <rect x="210" y="112" width="205" height="150" fill="#0B4F2A" stroke="#FFFFFF" stroke-width="1"/>

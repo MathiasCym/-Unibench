@@ -28,4 +28,4 @@ This release was assembled from the final working snapshot under `Achieved` and 
 
 ## Notes
 
-The original working directories used earlier terms such as `Iterable` and `Non-Iterable`. In this release, public-facing manifests and summaries are normalized to `Closed-loop Workflow` and `Open-loop Workflow`. Some historical runner filenames remain unchanged for traceability and are isolated under `scripts/study_runners_local`.
+The original working directories used earlier terms such as `Iterable` and `Non-Iterable`. In this release, public-facing manifests and summaries are normalized to `Close-loop Workflow` and `Open-loop Workflow`. Some historical runner filenames remain unchanged for traceability and are isolated under `scripts/study_runners_local`.

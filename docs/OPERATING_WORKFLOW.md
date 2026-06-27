@@ -18,7 +18,7 @@ The normalized manifests in `data/manifests` are the preferred machine-readable 
 UniBench separates the tested methods into two workflow types:
 
 - `Open-loop Workflow`: repeated generation attempts without structured feedback.
-- `Closed-loop Workflow`: feedback-based refinement across rounds.
+- `Close-loop Workflow`: feedback-based refinement across rounds.
 
 Open-loop prompt manifests are:
 
@@ -27,9 +27,9 @@ Open-loop prompt manifests are:
 - `open_loop_prompt_manifest_retained120_iteration2.jsonl`
 - `open_loop_prompt_manifest_retained120_iteration3.jsonl`
 
-Closed-loop seed prompts are listed in:
+Close-loop seed prompts are listed in:
 
-- `closed_loop_reference_manifest_retained120.jsonl`
+- `close_loop_reference_manifest_retained120.jsonl`
 
 Official method cohorts are stored in:
 

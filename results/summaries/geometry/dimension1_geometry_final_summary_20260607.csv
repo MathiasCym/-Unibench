@@ -1,9 +1,9 @@
 method,cohort,process_valid_attempts,process_total_attempts,process_compile_rate,process_compile_percent,best_of_compile_rate_directory,best_of_valid_outputs,sample_count,mean_cd,median_cd,mean_hd,mmd,cov_percent,jsd,watertight_percent,eecm_percent,geometry_source_summary
 DeepSeek,Open-loop Workflow,370,480,0.770833,77.08,0.983333,118,120,0.026440,0.022717,0.124181,0.021277,61.67,0.036687,93.22,73.73,full_output_tree_not_included_in_release
 Codex-MCP,Open-loop Workflow,480,480,1.000000,100.00,1.000000,120,120,0.029088,0.025758,0.125260,0.027244,51.67,0.041403,95.00,70.00,full_output_tree_not_included_in_release
-Claude,Closed-loop Workflow,209,222,0.941441,94.14,1.000000,120,120,0.034785,0.025263,0.141544,0.024553,62.50,0.037561,98.33,84.17,full_output_tree_not_included_in_release
-ChatGPT,Closed-loop Workflow,219,243,0.901235,90.12,0.983333,118,120,0.036417,0.026940,0.136991,0.023325,57.50,0.039572,99.15,86.44,full_output_tree_not_included_in_release
-Qwen,Closed-loop Workflow,229,237,0.966245,96.62,1.000000,120,120,0.039942,0.029084,0.146493,0.023788,60.83,0.040208,96.67,71.67,full_output_tree_not_included_in_release
-Gemini,Closed-loop Workflow,210,269,0.780669,78.07,0.966667,116,120,0.042068,0.027444,0.157122,0.025021,58.33,0.042109,95.69,74.14,full_output_tree_not_included_in_release
+Claude,Close-loop Workflow,209,222,0.941441,94.14,1.000000,120,120,0.034785,0.025263,0.141544,0.024553,62.50,0.037561,98.33,84.17,full_output_tree_not_included_in_release
+ChatGPT,Close-loop Workflow,219,243,0.901235,90.12,0.983333,118,120,0.036417,0.026940,0.136991,0.023325,57.50,0.039572,99.15,86.44,full_output_tree_not_included_in_release
+Qwen,Close-loop Workflow,229,237,0.966245,96.62,1.000000,120,120,0.039942,0.029084,0.146493,0.023788,60.83,0.040208,96.67,71.67,full_output_tree_not_included_in_release
+Gemini,Close-loop Workflow,210,269,0.780669,78.07,0.966667,116,120,0.042068,0.027444,0.157122,0.025021,58.33,0.042109,95.69,74.14,full_output_tree_not_included_in_release
 Text-to-CadQuery,Open-loop Workflow,373,480,0.777083,77.71,0.958333,115,120,0.069661,0.061513,0.236708,0.042147,45.00,0.064197,92.17,42.61,full_output_tree_not_included_in_release
 Text2CAD,Open-loop Workflow,460,480,0.958333,95.83,1.000000,120,120,0.076520,0.067949,0.261296,0.044479,46.67,0.080056,88.33,40.83,full_output_tree_not_included_in_release

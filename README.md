@@ -9,7 +9,7 @@ UniBench is an exploratory benchmark package for comparing text-to-CAD methods u
 - `data/prompts/prompt_levels`: beginner, intermediate, and expert prompt sets used in the exploratory prompt-level study.
 - `data/prompts/open_loop_rounds`: one-shot and three revised prompt rounds used for open-loop repeated generation.
 - `data/prompts/prompt_robustness`: original intermediate prompts and two controlled prompt variants.
-- `data/manifests`: normalized JSONL manifests for open-loop prompts, closed-loop seed prompts, prompt robustness runs, and official method cohorts.
+- `data/manifests`: normalized JSONL manifests for open-loop prompts, close-loop seed prompts, prompt robustness runs, and official method cohorts.
 - `scripts/unibench`: core metric and mesh-processing code.
 - `scripts/benchmark`: reusable benchmark helpers, best-of/effective-output builders, and prompt-robustness calculators.
 - `scripts/generation`: helper scripts for method-specific generation or materialization workflows used in the study.
@@ -51,7 +51,7 @@ The scripts in `scripts/generation`, `scripts/preparation`, and `scripts/study_r
 The current release uses:
 
 - `Open-loop Workflow`: repeated generation attempts without a structured feedback loop.
-- `Closed-loop Workflow`: feedback-based refinement across rounds.
+- `Close-loop Workflow`: feedback-based refinement across rounds.
 
 Some source script filenames may still contain older development terms because they were kept for traceability, but public-facing manifests and summaries use the current terminology.
 

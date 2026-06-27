@@ -232,7 +232,7 @@ def prediction_dir(method: str, round_name: str) -> Path:
         / "excluded_full_output_tree"
         / "Results"
         / "Benchmark"
-        / "Closed-loop Workflow"
+        / "Close-loop Workflow"
         / round_name
         / method
         / "benchmark_input"
@@ -401,7 +401,7 @@ def plot_linecharts(rows: list[dict[str, object]]) -> None:
     add_line_end_labels(axes[1, 1], rows, ITERATIVE_METHODS, "mean_hd")
 
     fig.text(0.29, 0.965, "Open-loop Workflow", ha="center", va="top", fontsize=30, fontweight="bold", color=COLORS["text"])
-    fig.text(0.735, 0.965, "Closed-loop Workflow", ha="center", va="top", fontsize=30, fontweight="bold", color=COLORS["text"])
+    fig.text(0.735, 0.965, "Close-loop Workflow", ha="center", va="top", fontsize=30, fontweight="bold", color=COLORS["text"])
 
     fig.subplots_adjust(left=0.085, right=0.94, top=0.90, bottom=0.095, hspace=0.36, wspace=0.18)
     fig.savefig(OUTPUT_PNG, dpi=300, bbox_inches="tight")
