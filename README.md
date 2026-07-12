@@ -1,6 +1,8 @@
-# UniBench
+# Unibench
 
-UniBench is an exploratory benchmark package for comparing text-to-CAD methods under a shared input, materialization, and evaluation protocol. The release folder contains the materials needed by future users to inspect the benchmark design, run the metric code on generated CAD outputs, and reproduce the main prompt and evaluation setup.
+Unibench is an exploratory benchmark package for comparing text-to-CAD methods under a shared input set, materialization workflow, retained-output rules, and evaluation protocol. The repository contains the materials needed to inspect the benchmark design, run the metric code on generated CAD outputs, and reproduce the main prompt and evaluation setup.
+
+Last protocol update: 2026-07-13
 
 ## Repository Structure
 
@@ -19,22 +21,53 @@ UniBench is an exploratory benchmark package for comparing text-to-CAD methods u
 - `results/raw_metrics`: compact per-sample and grouped CSV files required to regenerate the reported figures.
 - `results/summaries`: final aggregate geometry, semantic-fidelity, and prompt-robustness summaries.
 - `results/figures`: final figures used for reporting and presentation.
-- `docs`: release notes describing what was included and excluded.
+- `docs`: release notes and protocol documents.
 
-## What Is Included
+## Final Benchmark Components
 
-This release keeps the materials that are useful for future benchmark use: reference models, prompt templates, prompt variants, run manifests, metric scripts, preparation scripts, figure scripts, and final summary tables. It deliberately avoids copying the full generated-output trees because those folders contain several gigabytes of intermediate STL files, materialized outputs, logs, and legacy views.
+The final Unibench protocol contains:
 
-## Workflow Overview
+- 40 reference CAD models.
+- 40 matched intermediate prompts, one for each reference model.
+- 80 intermediate-derived prompt variants, two for each reference model, used for prompt robustness testing.
+- A FreeCAD-based materialization workflow.
+- Retained-output rules for selecting valid CAD outputs for comparison.
+- Three evaluation dimensions: geometry accuracy, semantic fidelity, and prompt robustness.
 
-1. Select a prompt manifest from `data/manifests`.
-2. Generate CAD outputs with the method being evaluated.
-3. Materialize outputs into inspectable CAD geometry, preferably STL or another mesh-compatible format.
-4. Run the UniBench metric code in `scripts/unibench` and the relevant benchmark runner in `scripts/benchmark`.
-5. Record materialization validity, geometry accuracy, semantic fidelity, and prompt robustness separately.
-6. Compare methods under the same reference models, prompt conditions, and retained-output rules.
+## Core Metrics
 
-For the complete operating procedure, see `docs/OPERATING_WORKFLOW.md`.
+The final core metrics are:
+
+- Geometry accuracy: Compile Rate, Mean CD, Watertight Rate, EECM.
+- Semantic fidelity: AI Semantic Fidelity Score using a fixed checklist and AI scoring prompt.
+- Prompt robustness: CD Variation and Variant Compile Rate.
+
+The broader exploratory study also computed additional metrics such as Median CD, HD, MMD, COV, JSD, HD Variation, and human semantic scoring. These are retained as supplementary evidence for interpreting the study and explaining the Step 4 consolidation, but they are not final Unibench core metrics.
+
+## Prompt Screening
+
+Prompt-level screening is based on three indicators:
+
+- Mean prompt length.
+- Mean compile failure.
+- Geometry error index.
+
+This screening supports the use of intermediate prompts as the primary Unibench input set. The formal benchmark metrics still use Compile Rate. Compile Failure is used only in the prompt-level screening figure and discussion.
+
+## Step 4 Consolidation Logic
+
+Step 4 converts the broader exploratory study into the final Unibench protocol through four linked aspects:
+
+1. Workflow feasibility: whether generated outputs can be processed through the same materialization workflow and converted into usable CAD models.
+2. Prompt suitability: whether beginner, intermediate, and expert prompts differ in prompt length, compile failure, and geometry error index, and which level is most suitable for benchmark use.
+3. Metric discriminability: whether metrics provide distinct and interpretable evidence. Metrics that show almost identical trends are treated as supplementary evidence rather than final core metrics.
+4. Protocol consolidation: whether the selected reference models, prompt condition, materialization rules, retained-output rules, and evaluation dimensions can be fixed into a repeatable benchmark.
+
+## Operating Procedure
+
+For the complete operating procedure, see [`docs/OPERATING_WORKFLOW.md`](docs/OPERATING_WORKFLOW.md).
+
+The current geometry-generation and AI semantic-scoring initial prompts are documented in [`docs/INITIAL_PROMPTS_AND_RULES.md`](docs/INITIAL_PROMPTS_AND_RULES.md).
 
 ## Dependencies
 
